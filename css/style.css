@@ -1,0 +1,63 @@
+body {
+   /* background-image: url(../images/background1.jpg); */
+}
+
+.header ul {
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.header li {
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border: 3px solid yellow;
+}
+
+.first_heading {
+    text-align: center;
+}
+.main {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.portrait {
+    text-align: center;
+}
+
+.portrait img {
+    border: 5px solid yellow;
+    outline: 5px solid black;
+    outline-offset: 5px;
+    padding: 10px;
+}
+
+.subtitle {
+    border-left: 25px solid yellow;
+    padding-left: 20px;
+    margin-top: 25px;
+}
+
+#contacts a{
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    border-top: 2px solid yellow;
+}
+
+.footer p {
+    font-weight: 700;
+}
